@@ -1,0 +1,11 @@
+﻿  Encryption.cpp
+E:\Workspace\VsProjects\Encryption\encryption.h(40,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\encryption.h(97,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\encryption.h(105,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\encryption.h(115,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\encryption.h(126,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\decryption.h(62,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\decryption.h(72,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\decryption.h(85,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Workspace\VsProjects\Encryption\decryption.h(92,11): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+  Encryption.vcxproj -> E:\Workspace\VsProjects\Encryption\x64\Debug\Encryption.exe
